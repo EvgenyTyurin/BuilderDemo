@@ -1,3 +1,7 @@
+/**
+ * Director that builds character using builder
+ */
+
 class PersonBuilderDirector {
     private RPGPersonBuilder personBuilder;
 

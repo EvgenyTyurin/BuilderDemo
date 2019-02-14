@@ -1,3 +1,7 @@
+/**
+ * Abstract builder
+ */
+
 abstract class RPGPersonBuilder {
     RPGPerson person;
 

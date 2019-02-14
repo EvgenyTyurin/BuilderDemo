@@ -1,3 +1,7 @@
+/**
+ * Abstract RPG character
+ */
+
 class RPGPerson {
     private String weapon;
     private String armor;

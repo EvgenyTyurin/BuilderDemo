@@ -1,3 +1,7 @@
+/**
+ * Builder of mages
+ */
+
 class MageBuilder extends  RPGPersonBuilder{
     @Override
     public void equipWeapon() {
